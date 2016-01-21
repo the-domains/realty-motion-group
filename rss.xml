@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Realty Motion Group]]></title>
+        <description><![CDATA[Realty Motion Group]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jan 2016 18:38:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Realty Motion Group]]></title>
+            <description><![CDATA[<article><h1>Realty Motion Group</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8081eb6f500d51943f787d9f0f03b47b391ed4bc.jpg"></article>]]></description>
+            <link>undefinedrealty-motion-group/index.html</link>
+            <guid isPermaLink="false">92ce3639-49e6-4101-9d71-4745e4e1237c</guid>
+            <pubDate>Thu, 21 Jan 2016 18:38:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
