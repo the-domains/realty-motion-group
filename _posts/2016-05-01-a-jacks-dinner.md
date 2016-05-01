@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/164919942'
+inLanguage: null
+keywords: []
+description: "Spot for the Jack's Place Restaurant located in Orlando Fl in Rosen Plaza Hotel. Indulge in aged steaks and fresh seafood at Jack's Place, a modern steakhouse adorned with the world's largest collection of autographed celebrity caricatures."
+datePublished: '2016-05-01T21:10:48.313Z'
+dateModified: '2016-05-01T21:10:23.459Z'
 author:
   - name: Steven Grullon
     url: 'http://vimeo.com/stevenoiz'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "Spot for the Jack's Place Restaurant located in Orlando Fl in Rosen Plaza Hotel. Indulge in aged steaks and fresh seafood at Jack's Place, a modern steakhouse adorned with the world's largest collection of autographed celebrity caricatures."
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/164919942'
     type: ios
@@ -38,16 +40,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/164919942'
 title: "A Jack's Dinner"
-datePublished: '2016-05-01T20:33:52.423Z'
-dateModified: '2016-05-01T20:32:16.587Z'
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 starred: false
 sourcePath: _posts/2016-05-01-a-jacks-dinner.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
