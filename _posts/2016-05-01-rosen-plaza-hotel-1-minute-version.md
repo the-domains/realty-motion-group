@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/164918861'
+inLanguage: null
+keywords: []
+description: "Rosen Plaza Hotel A standout among Orlando's finest meeting, convention and vacation hotels, Rosen Plaza Hotel is famous for its high standard of excellence. Impressive Orlando meeting space, impeccable in-house staff and grand accommodations assure a seamless meeting experience for groups ranging from 10 to 2,800."
+datePublished: '2016-05-01T21:37:46.876Z'
+dateModified: '2016-05-01T21:37:40.920Z'
 author:
-  - name: Steven Grullon
+  - name: Stevenson Grullon
     url: 'http://vimeo.com/stevenoiz'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "Rosen Plaza Hotel A standout among Orlando's finest meeting, convention and vacation hotels, Rosen Plaza Hotel is famous for its high standard of excellence. Impressive Orlando meeting space, impeccable in-house staff and grand accommodations assure a seamless meeting experience for groups ranging from 10 to 2,800."
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/164918861'
     type: ios
@@ -38,16 +40,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/164918861'
 title: Rosen Plaza Hotel 1 Minute Version
-datePublished: '2016-05-01T20:21:52.541Z'
-dateModified: '2016-05-01T20:19:03.890Z'
-starred: false
 sourcePath: _posts/2016-05-01-rosen-plaza-hotel-1-minute-version.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
