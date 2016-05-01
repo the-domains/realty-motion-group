@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Realty Motion Group]]></title>
         <description><![CDATA[Realty Motion Group]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/realty-motion-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 18:38:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 20:21:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/realty-motion-group/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Realty Motion Group]]></title>
             <description><![CDATA[<article><h1>Realty Motion Group</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8081eb6f500d51943f787d9f0f03b47b391ed4bc.jpg"></article>]]></description>
-            <link>undefinedrealty-motion-group/index.html</link>
+            <link>https://thegrid.ai/realty-motion-group/realty-motion-group/index.html</link>
             <guid isPermaLink="false">92ce3639-49e6-4101-9d71-4745e4e1237c</guid>
             <pubDate>Thu, 21 Jan 2016 18:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rosen Plaza Hotel 1 Minute Version]]></title>
+            <description><![CDATA[<article><h1>Rosen Plaza Hotel 1 Minute Version</h1><p>Rosen Plaza Hotel A standout among Orlando's finest meeting, convention and vacation hotels, Rosen Plaza Hotel is famous for its high standard of excellence. Impressive Orlando meeting space, impeccable in-house staff and grand accommodations assure a seamless meeting experience for groups ranging from 10 to 2,800.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/147787df152792bc1bf172d6c838536c89dedd44.jpg"></article>]]></description>
+            <link>https://vimeo.com/164918861</link>
+            <guid isPermaLink="false">73e68eb2-3d88-442d-a2ea-f3f5f2decec4</guid>
+            <pubDate>Sun, 01 May 2016 20:21:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
